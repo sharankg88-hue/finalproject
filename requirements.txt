@@ -4,5 +4,6 @@ cryptography
 numpy
 Pillow
 soundfile
-moviepy
+moviepy==2.0.0.dev2
 opencv-python-headless
+gunicorn
